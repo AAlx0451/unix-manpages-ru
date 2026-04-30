@@ -1,0 +1,47 @@
+--- ../../orig/man7/tabs.7	1973-02-15 20:41:52.000000000 +0300
++++ tabs.7	2026-04-30 09:15:34.974296000 +0300
+@@ -1,30 +1,30 @@
+ .pa 1
+ .he 'TABS (VII)'6/15/72'TABS (VII)'
+ .ti 0
+-NAME		tabs  --  set tab stops
++ИМЯ		tabs  --  установить табуляцию
+ .sp
+ .ti 0
+-SYNOPSIS	cat /usr/pub/tabs
++СИНТАКСИС	cat /usr/pub/tabs
+ .sp
+ .ti 0
+-DESCRIPTION	When
+-printed on a suitable terminal, this file
+-will set tab stops every 8 columns.
+-Suitable terminals include the Teletype model 37 and
+-the GE TermiNet 300.
++ОПИСАНИЕ	При
++выводе на подходящий терминал
++этот файл установит табуляцию в восемь столбцов.
++К подходящим терминалам относятся 
++Teletype model 37 и GE TermiNet 300.
+ .sp
+-These tab stop settings are
+-desirable because UNIX assumes them
+-in calculating delays.
++Такая табуляция желательна,
++потому что UNIX предполагает ее
++при расчете задержек вывода.
+ .sp
+ .ti 0
+-FILES		--
++ФАЙЛЫ		--
+ .sp
+ .ti 0
+-SEE ALSO	--
++СМ. ТАКЖЕ	--
+ .sp
+ .ti 0
+-DIAGNOSTICS	--
++ДИАГНОСТИКА	--
+ .sp
+ .ti 0
+-BUGS		--
++ОШИБКИ		--
