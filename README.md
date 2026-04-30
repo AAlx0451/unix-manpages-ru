@@ -1,4 +1,3 @@
-## Unix Man RU
-This repo provides translated unix manpages (mostly in KOI8-R)
+## UnixV3 Man RU
+Welcome to `research-unix-v3` branch! This branch provides patches for [Dennis Ritchie's UNIXv3 mans](https://sunsite.icm.edu.pl/packages/UnixArchive/Distributions/Research/Dennis_v3/v3man.tar.gz). See LICENSE.
 
-MY work licensed under the unlicense (main branch -> LICENSE), original texts has different licenses. See any-branch -> LICENSE to get more info
